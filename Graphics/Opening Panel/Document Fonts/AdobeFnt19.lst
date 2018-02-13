@@ -1,0 +1,81 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Black
+FamilyName:Gotham
+StyleName:Black
+MenuName:Gotham Black
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Gotham Black
+WritingScript:Roman
+OutlineFileName:\Gotham-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88924
+FileModTime:1394135708
+NameArray:0,Mac,4,Gotham Black
+NameArray:0,Win,1,Gotham Black
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+MenuName:Gotham Book
+StyleBits:0
+WeightClass:325
+WidthClass:5
+AngleClass:0
+FullName:Gotham Book
+WritingScript:Roman
+OutlineFileName:\Gotham-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:86232
+FileModTime:1394135732
+NameArray:0,Mac,4,Gotham Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MercuryTextG1-Roman
+FamilyName:Mercury Text G1
+StyleName:Roman
+MenuName:Mercury Text G1
+StyleBits:0
+WeightClass:325
+WidthClass:5
+AngleClass:0
+FullName:Mercury Text G1 Roman
+WritingScript:Roman
+OutlineFileName:\MercuryTextG1-Roman-Pro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128320
+FileModTime:1394139920
+NameArray:0,Mac,18,Mercury Text G1
+NameArray:0,Mac,4,Mercury Text G1 Roman
+NameArray:0,Win,1,Mercury Text G1
+%EndFont
+
